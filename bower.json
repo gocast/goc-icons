@@ -1,0 +1,9 @@
+{
+  "name": "gocast-icons",
+  "main": "gocast-icons.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "iron-icon": "PolymerElements/iron-icon#^1.0.10",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.0.9"
+  }
+}
